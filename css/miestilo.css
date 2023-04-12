@@ -1,0 +1,46 @@
+*{
+margin: 0;
+
+}
+body{
+    text-align: center;
+    
+    font-family: 'Playfair Display', serif;
+}
+h1{
+    font-size: 250%;
+       
+        
+   
+    }
+  header{
+    background-color: aqua;
+  }
+
+  a{
+    font-size: 16px;
+    text-decoration: none;
+    color:black;
+  }
+  .enlace1{
+  background-color: aqua;
+  border: 5px dotted cornsilk;
+  border-radius: 25px;
+  }
+
+
+
+
+p{
+    color:red;
+    
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-style: italic;
+}
+.parrafo2{
+    font-style: italic;
+}
+#subtitulo{
+    color: rgb(61, 41, 193);
+}
